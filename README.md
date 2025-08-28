@@ -55,6 +55,12 @@ Não é um produto final, mas um exercício para praticar:
 - Uso do Sequelize com MySQL
 - Implementação de rotas e templates com Express e Handlebars
 
+## 📸 Screenshots
+
+<img width="620" height="355" alt="image" src="https://github.com/user-attachments/assets/2c5c12c7-e893-48b8-9335-3c893bd91b46" />
+
+<img width="200" height="420" alt="image" src="https://github.com/user-attachments/assets/ba90b8e9-95cb-46ed-a0e3-35e813449190" />
+
 ## 👩‍💻 Autora
 - Eduarda Depetris
 - [GitHub](https://github.com/EduardaDepetris)
